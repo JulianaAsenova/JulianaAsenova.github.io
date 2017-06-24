@@ -125,7 +125,7 @@ nav ul li a{
 
 #my_name{
 	float:left;
-	color:#DB7093;
+	color:purpule;
 	font-size:120px;
 	margin:120px;
 }
@@ -149,7 +149,7 @@ nav ul li a{
 	 text-align:left;
 	 padding-bottom:10px;
 	 text-transform:uppercase;
-	 color:#008080;	
+	 color:blue;	
  }
  
  .index-info h4 p{
@@ -173,7 +173,7 @@ nav ul li a{
 	 text-align:center;
 	 padding-bottom:10px;
 	 text-transform:uppercase;
-	 color:#008080;
+	 color:blue;
  }
  
  .index-text h4{
@@ -183,7 +183,7 @@ nav ul li a{
 	 text-align:center;
 	 padding-bottom:10px;
 	 text-transform:uppercase;
-	 color:#008080;	
+	 color:blue;	
  }
 
  .index-text h4 p{
